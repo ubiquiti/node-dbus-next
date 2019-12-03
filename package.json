@@ -1,6 +1,6 @@
 {
-  "name": "dbus-next",
-  "version": "0.8.1",
+  "name": "@ubnt/dbus-next",
+  "version": "0.8.2-ubnt",
   "keywords": [
     "dbus",
     "dcop",
