@@ -42,9 +42,6 @@
     "safe-buffer": "^5.1.1",
     "xml2js": "^0.4.17"
   },
-  "optionalDependencies": {
-    "abstract-socket": "^2.0.0"
-  },
   "devDependencies": {
     "@babel/core": "^7.1.5",
     "@babel/plugin-proposal-class-properties": "^7.1.0",
